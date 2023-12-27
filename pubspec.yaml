@@ -88,6 +88,9 @@ flutter:
     - family: Revoke
       fonts:
         - asset: assets/Revoke-Regular.ttf
+    - family: Hater
+      fonts:
+        - asset: assets/EV_Hater.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
